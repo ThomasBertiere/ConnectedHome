@@ -8,6 +8,7 @@ public class Application {
 		
 		System.out.println("TEST Bastien");
 		System.out.println("TEST Bastien");
+		System.out.println("Dorito");
 		
 		//Return a handle to memory, can hold a EmoEngine Event. 
 		Pointer eEvent = Edk.INSTANCE.IEE_EmoEngineEventCreate();
