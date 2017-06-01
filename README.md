@@ -29,7 +29,7 @@ L’objectif principal de ce projet était de rendre une maison plus intelligent
 ![Image de l'architecture réalisée](./Architecture.png)
 
 **Fichiers du dossier**
-Vous trouverez dans ce dossier 6 projets java Eclipse : 
+\n\nVous trouverez dans ce dossier 6 projets java Eclipse : 
 - Gestion du casque cérébral : 
     - FacialProject : utilisation des électrodes du casque cérébral pour reconnaitre les expressions faciales.
     - GyroProject : utilisation du gyroscope du casque cérébral pour détecter les mouvements de la tête.
