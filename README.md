@@ -38,4 +38,4 @@ Vous trouverez dans ce dossier 6 projets java Eclipse :
 
 ## Contributeurs
 
-Projet réalisé par Guillaume DE BRITO, Thomas BERTIERE, Bastien BIGUE et Rama DESPLATS dans le cadre du projet tutoré de la 4ème année Génie Informatique à l'INSA de Toulouse
+Projet réalisé par Guillaume DE BRITO, Thomas BERTIERE, Bastien BIGUE et Rama DESPLATS dans le cadre du projet tutoré de la 4ème année Génie Informatique à l'INSA de Toulouse.
