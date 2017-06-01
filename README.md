@@ -37,7 +37,8 @@ Vous trouverez dans ce dossier 6 projets java Eclipse :
 - OrdinateurPhidget : projet à lancer sur l'ordinateur connecté aux capteurs phidget pour récupérer leur donnée et les envoyer à la gateway.
 
 ## Vidéo de démonstration
-![Vidéo de démonstration](./Images/Maison_Intelligente.mp4)
+Une vidéo de démonstration de notre projet est visible sur ce lien : 
+https://www.youtube.com/watch?v=jFGfroyDhUQ
 
 ## Contributeurs
 Projet réalisé par Guillaume DE BRITO, Thomas BERTIERE, Bastien BIGUE et Rama DESPLATS dans le cadre du projet tutoré de la 4ème année Génie Informatique à l'INSA de Toulouse.
