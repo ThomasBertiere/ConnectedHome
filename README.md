@@ -25,6 +25,7 @@ L’objectif principal de ce projet était de rendre une maison plus intelligent
 - API iTunes pour jouer de la musique lorsqu'un utilisateur s'assied.
 
 **Architecture réalisée**
+
 ![Image de l'architecture réalisée](./Architecture.png)
 
 **Fichiers du dossier**
