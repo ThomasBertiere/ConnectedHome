@@ -1,8 +1,9 @@
 # La maison intelligente
-
+##Test
 
 L’objectif principal de ce projet était de rendre une maison plus intelligente par le biais d'objets connectés. Dans un premier temps, nous nous sommes dirigés vers une maison intelligente au service de personnes touchées par un handicap. Puis nous avons étendu nos fonctionnalités à une utilisation quotidienne pour faciliter la vie de toute personne utilisant notre système.
 
+##TEST2
 **Fonctionnalités implémentées**
 - Allumer/éteindre des appareils électroniques de la maison à partir de la reconnaissance faciale d'un casque cérébral (lorsqu'un utilisateur serre les dents).
 - Commander une télévision (changer les chaînes et le volume) en faisant des mouvements de tête grâce au gyroscope d'un casque cérébral. 
@@ -28,8 +29,7 @@ L’objectif principal de ce projet était de rendre une maison plus intelligent
 
 ![Image de l'architecture réalisée](./Architecture.png)
 
-**Fichiers du dossier
-**
+**Fichiers du dossier**
 Vous trouverez dans ce dossier 6 projets java Eclipse : 
 - Gestion du casque cérébral : 
     - FacialProject : utilisation des électrodes du casque cérébral pour reconnaitre les expressions faciales.
@@ -39,5 +39,6 @@ Vous trouverez dans ce dossier 6 projets java Eclipse :
 - OrdinateurMusique : projet à lancer sur l'ordinateur devant jouer de la musique lorsqu'un utilisateur s'assied. Cet ordinateur doit être un mac pour pouvoir accéder à l'API iTunes.
 - OrdinateurPhidget : projet à lancer sur l'ordinateur connecté aux capteurs phidget pour récupérer leur donnée et les envoyer à la gateway.
 
-**Contributeurs**
+**Contributeurs:**
+
 Projet réalisé par Guillaume DE BRITO, Thomas BERTIERE, Bastien BIGUE et Rama DESPLATS dans le cadre du projet tutoré de la 4ème année Génie Informatique à l'INSA de Toulouse
