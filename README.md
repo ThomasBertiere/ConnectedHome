@@ -12,3 +12,6 @@ L’objectif principal de ce projet était de rendre une maison plus intelligent
     - mouvement vers la gauche : programme -
 - Allumage d'une bande de LEDs de façon progressive pour un reveil en douceur. Par le biais d’un capteur de luminosité, nous allons détecter lorsque la bande de LEDs émet à pleine puissance et la météo actuelle sera enoncé. 
 - Utilisation un capteur de pression qui détecte lorsqu'une personne s'assied. De la musique est alors lancé sur un ordinateur de la maison.
+
+**Outils et capteur utilisé**
+- Projet Eclipse open source OM2M developpé par le LAAS/CNRS pour instancier les standards OneM2M permettant de faire communiquer nos appreils connectés dans l'internet et intéragir avec eux. (Lien du projet OM2M : http://www.eclipse.org/om2m/) 
