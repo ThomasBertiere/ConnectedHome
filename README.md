@@ -24,7 +24,7 @@ L’objectif principal de ce projet était de rendre une maison plus intelligent
 - API iTunes pour jouer de la musique lorsqu'un utilisateur s'assied.
 
 ## Architecture réalisée
-![Image de l'architecture réalisée](./Architecture.png)
+![Image de l'architecture réalisée](./Images/Architecture.png)
 
 ## Fichiers du dossier
 Vous trouverez dans ce dossier 6 projets java Eclipse : 
@@ -36,6 +36,8 @@ Vous trouverez dans ce dossier 6 projets java Eclipse :
 - OrdinateurMusique : projet à lancer sur l'ordinateur devant jouer de la musique lorsqu'un utilisateur s'assied. Cet ordinateur doit être un mac pour pouvoir accéder à l'API iTunes.
 - OrdinateurPhidget : projet à lancer sur l'ordinateur connecté aux capteurs phidget pour récupérer leur donnée et les envoyer à la gateway.
 
-## Contributeurs
+## Vidéo de démonstration
+![Vidéo de démonstration](./Images/Maison_Intelligente.mp4)
 
+## Contributeurs
 Projet réalisé par Guillaume DE BRITO, Thomas BERTIERE, Bastien BIGUE et Rama DESPLATS dans le cadre du projet tutoré de la 4ème année Génie Informatique à l'INSA de Toulouse.
