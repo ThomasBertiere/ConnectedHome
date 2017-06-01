@@ -1,3 +1,0 @@
-# ConnectedHome
-
-- Introduction

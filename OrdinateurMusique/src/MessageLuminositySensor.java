@@ -1,0 +1,23 @@
+
+
+import java.io.Serializable;
+
+public class MessageLuminositySensor extends Message implements Serializable{
+
+	private static final long serialVersionUID = 1L;
+	private int value ; 
+	
+	public MessageLuminositySensor(int value) {
+		this.value=value ; 
+	}
+
+	public int getValue() {
+		return value;
+	}
+
+	public void setValue(int value) {
+		this.value = value;
+	}
+
+
+}
