@@ -1,4 +1,4 @@
-#La maison inteligente
+# La maison inteligente
 
 
 L’objectif principal de ce projet était de rendre une maison plus intelligente par le biais d'objets connectés. Dans un premier temps, nous nous sommes dirigés vers une maison intelligente au service de personnes touchées par un handicap. Puis nous avons étendu nos fonctionnalité à une utilisation quotidienne pour faciliter la vie de toutes personnes utilisant notre système.
