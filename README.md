@@ -24,12 +24,8 @@ L’objectif principal de ce projet était de rendre une maison plus intelligent
 - Relais grove pour allumer/éteindre tous appareils électroniques reliés à une rallonge spécifique.
 - API iTunes pour jouer de la musique lorsqu'un utilisateur s'assied.
 
-**Architecture réalisée**
-
-![Image de l'architecture réalisée](./Architecture.png)
-
 **Fichiers du dossier**
-\n\nVous trouverez dans ce dossier 6 projets java Eclipse : 
+Vous trouverez dans ce dossier 6 projets java Eclipse : 
 - Gestion du casque cérébral : 
     - FacialProject : utilisation des électrodes du casque cérébral pour reconnaitre les expressions faciales.
     - GyroProject : utilisation du gyroscope du casque cérébral pour détecter les mouvements de la tête.
@@ -38,5 +34,8 @@ L’objectif principal de ce projet était de rendre une maison plus intelligent
 - OrdinateurMusique : projet à lancer sur l'ordinateur devant jouer de la musique lorsqu'un utilisateur s'assied. Cet ordinateur doit être un mac pour pouvoir accéder à l'API iTunes.
 - OrdinateurPhidget : projet à lancer sur l'ordinateur connecté aux capteurs phidget pour récupérer leur donnée et les envoyer à la gateway.
 
-**Contributeurs**
+**Architecture réalisée**
+![Image de l'architecture réalisée](./Architecture.png)
+
+**Contributeurs : **
 Projet réalisé par Guillaume DE BRITO, Thomas BERTIERE, Bastien BIGUE et Rama DESPLATS dans le cadre du projet tutoré de la 4ème année Génie Informatique à l'INSA de Toulouse
